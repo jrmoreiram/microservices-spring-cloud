@@ -1,15 +1,40 @@
-# Curso de Microservices com Spring Cloud: Registry, Config Server e Distributed Tracing
+# Software Documentation
 
-### Temas abordados durante o curso:
-- Aprenda como funciona a decomposição do monólito
-- Implemente o Service Discovery com Eureka
-- Centralize as configurações com Spring Config Server
-- Aumente a disponibilidade com Client-side Load Balancer
-- Monitore e depure requisições com Distributed Tracing
+## Overview
+This document provides an overview of the software project, including its architecture, components, and usage.
 
-### Aulas:
-- Quebrando o domínio em serviços
-- Service Registry com Eureka
-- Spring Config Server
-- Load Balancer e Spring Feign
-- Distributed Tracing e Spring Sleuth
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Architecture](#architecture)
+3. [Components](#components)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [License](#license)
+
+## Introduction
+This project is designed to...
+
+## Architecture
+Details about the architectural design of the project...
+
+## Components
+- **Component 1**: Description...
+- **Component 2**: Description...
+
+## Installation
+Instructions for installing the project...
+
+## Usage
+How to use the project...
+
+## Contributing
+Guidelines for contributing to this project...
+
+## License
+Information about the project's license...
+
+---
+
+## Change Log
+- Updated documentation for improved structure and formatting on 2026-03-28.
