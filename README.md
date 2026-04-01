@@ -2,34 +2,36 @@
 
 Curso prático sobre arquitetura de microserviços utilizando **Spring Cloud**, cobrindo registro de serviços, centralização de configurações e rastreamento distribuído.
 
-**Descrição:** Registry, Config Server e Distributed Tracing
+**Descrição:** Microservices com Spring Cloud: Registry, Config Server e Distributed Tracing
 
 ---
 
 ## 📋 Índice
 
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Temas Abordados](#temas-abordados)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Arquitetura do Sistema](#arquitetura-do-sistema)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação e Configuração](#instalação-e-configuração)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Microserviços](#microserviços)
-- [Guia de Uso](#guia-de-uso)
-- [Configuração Avançada](#configuração-avançada)
-- [Monitoramento e Observabilidade](#monitoramento-e-observabilidade)
-- [APIs REST](#apis-rest)
-- [Troubleshooting](#troubleshooting)
-- [Boas Práticas](#boas-práticas)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Temas Abordados](#-temas-abordados)
+- [Tecnologias Utilizadas](#%EF%B8%8F-tecnologias-utilizadas)
+- [Arquitetura do Sistema](#%EF%B8%8F-arquitetura-do-sistema)
+- [Pré-requisitos](#-pré-requisitos)
+- [Instalação e Configuração](#-instalação-e-configuração)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Microserviços](#-microserviços)
+- [Guia de Uso](#-guia-de-uso)
+- [Configuração Avançada](#%EF%B8%8F-configuração-avançada)
+- [Monitoramento e Observabilidade](#-monitoramento-e-observabilidade)
+- [APIs REST](#-apis-rest)
+- [Troubleshooting](#-troubleshooting)
+- [Boas Práticas](#-boas-práticas)
+- [Contribuindo](#-contribuindo)
+- [Licença](#-licença)
 
 ---
 
 ## 🎯 Sobre o Projeto
 
 Este projeto é um repositório de aprendizado que demonstra as principais práticas e padrões de desenvolvimento de microserviços com o ecossistema **Spring Cloud**. Implementa uma arquitetura completa com descoberta de serviços, gerenciamento centralizado de configurações e rastreamento distribuído para melhorar a observabilidade e manutenibilidade de sistemas distribuídos.
+
+> **📚 Projeto Educacional**: Desenvolvido com base no curso **"Microservices com Spring Cloud: Registry, Config Server e Distributed Tracing"** da **Alura**.
 
 ### Objetivos de Aprendizado
 
@@ -781,10 +783,19 @@ Este projeto está licenciado sob a licença **MIT** - veja o arquivo LICENSE pa
 
 ## 📚 Recursos Adicionais
 
+### 📖 Documentação Oficial
 - [Spring Cloud Documentation](https://spring.io/projects/spring-cloud)
 - [Eureka Documentation](https://github.com/Netflix/eureka)
 - [Zipkin Documentation](https://zipkin.io/)
 - [Spring Boot Actuator](https://spring.io/guides/gs/actuator-service/)
+
+### 🎓 Curso de Referência
+- **[Microservices com Spring Cloud: Registry, Config Server e Distributed Tracing](https://www.alura.com.br/)** - Alura
+  - Service Discovery com Eureka
+  - Centralização de configurações com Config Server
+  - Rastreamento distribuído com Sleuth e Zipkin
+  - Comunicação entre microserviços
+  - Boas práticas de arquitetura
 
 ---
 
@@ -794,4 +805,5 @@ Abra uma [Issue](https://github.com/jrmoreiram/microservices-spring-cloud/issues
 
 ---
 
-**Última atualização**: 2026-03-28 13:46:54
+**Última atualização**: 2026-04-01  
+**Baseado no curso**: [Microservices com Spring Cloud - Alura](https://www.alura.com.br/) 🎓
