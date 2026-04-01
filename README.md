@@ -1,4 +1,4 @@
-# Microservices com Spring Cloud
+# 🍃 Microservices com Spring Cloud
 
 Curso prático sobre arquitetura de microserviços utilizando **Spring Cloud**, cobrindo registro de serviços, centralização de configurações e rastreamento distribuído.
 
